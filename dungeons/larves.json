@@ -1,0 +1,170 @@
+{
+    "name":"Donjon des Larves",
+    "rooms":{
+        "1":{
+            "mapid":6691,
+            "random":false,
+            "quantity":8,
+            "monsters":{
+                "31":1,
+                "34":1,
+                "46":2,
+                "412":1,
+                "414":1
+            },
+            "comments":""
+        },
+        "de séparation #1":{
+            "mapid":6901,
+            "path":[
+                [337,323,309,295,281,267,238,209,180,151,122,93,64],
+                [37,323,309,295,281,267,268,269,270,271,272,273,274]
+            ],
+            "comments":""
+        },
+        "2 (gauche)":{
+            "mapid":6709,
+            "random":false,
+            "quantity":8,
+            "monsters":{
+                "34":2,
+                "46":2,
+                "412":3
+            }
+        },
+        "2 (droite)":{
+            "mapid":6693,
+            "random":false,
+            "quantity":8,
+            "monsters":{
+                "34":2,
+                "46":2,
+                "414":3
+            }
+        },
+        "des leviers #1":{
+            "mapid":6692,
+            "path":[
+                [291,262,248,234,220,206,192,178,164,150],
+                [411,412,398,384,370,356,342,328,314,300]
+            ],
+            "comments":"Vous devez vous placer sur les dalles et actionner les leviers afin d'ouvrir l'accès à la salle suivante pour chacun des deux groupes."
+        },
+        "3":{
+            "mapid":6710,
+            "random":false,
+            "quantity":8,
+            "monsters":{
+                "31":1,
+                "34":1,
+                "46":1,
+                "412":2,
+                "414":2,
+                "413":1
+            }
+        },
+        "de séparation #2":{
+            "mapid":6900,
+            "path":[
+                [337,323,309,295,281,267,238,209,180,151,122,93,64],
+                [37,323,309,295,281,267,268,269,270,271,272,273,274]
+            ],
+            "comments":""
+        },
+        "4 (gauche)":{
+            "mapid":6903,
+            "random":false,
+            "quantity":8,
+            "monsters":{
+                "46":4,
+                "412":1,
+                "414":3
+            }
+        },
+        "4 (droite)":{
+            "mapid":6902,
+            "random":false,
+            "quantity":8,
+            "monsters":{
+                "46":4,
+                "412":3,
+                "414":1
+            }
+        },
+        "des leviers #2":{
+            "mapid":6720,
+            "path":[
+                [291,277,263,249,235,221,207,193,179,165,151],
+                [291,121],
+                [291,136],
+                [137,123,109,95,81,67],
+                [411,397,383,369,355,341,327,313,299,285,271],
+                [411,286],
+                [411,301],
+                [257,243,229,215,201,187]
+            ],
+            "comments":"Vous devez placer une peau de larve sur chaque dalle correspondant à leur couleur respective puis actionner les leviers afin d'ouvrir l'accès à une salle suivante pour chacun des deux groupes. Vous aurez environ 4 minutes pour finir le prochain combat, sans quoi l'accès se refermera et vous devrez revenir en arrière pour recommencer."
+        },
+        "5 (gauche)":{
+            "mapid":6721,
+            "random":false,
+            "quantity":5,
+            "monsters":{
+                "412":3,
+                "414":1,
+                "413":1
+            }
+        },
+        "5 (droite)":{
+            "mapid":6722,
+            "random":false,
+            "quantity":5,
+            "monsters":{
+                "412":1,
+                "414":3,
+                "413":1
+            }
+        },
+        "des portes":{
+            "mapid":6904,
+            "path":[
+                [276,262,248,234,220,206,192,178,164,150,136,122,108,94,80,66],
+                [441,412,383,354,340,326,312,298,284,270,256,242,228,214,200,186]
+            ],
+            "comments":"Si les accès sont fermés, vous devez retourner en arrière pour ré-actionner les leviers et re-combattre les groupes le plus vite possible."
+        },
+        "6":{
+            "mapid":6723,
+            "random":false,
+            "quantity":8,
+            "monsters":{
+                "46":2,
+                "412":2,
+                "414":2,
+                "413":2
+            }
+        },
+        "7":{
+            "mapid":6811,
+            "random":false,
+            "quantity":8,
+            "monsters":{
+                "412":3,
+                "414":3,
+                "413":2
+            }
+        },
+        "8":{
+            "mapid":6812,
+            "random":false,
+            "quantity":8,
+            "monsters":{
+                "412":2,
+                "414":2,
+                "413":2,
+                "456":1,
+                "457":1
+            }
+        }
+    }
+}

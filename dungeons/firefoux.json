@@ -1,0 +1,56 @@
+{
+	"name":"Donjon des Firefoux",
+	"rooms":{
+		"1":{
+			"mapid":8338,
+			"random":true,
+			"quantity":[4,8],
+			"monsters":[527,528,529,535,532,599],
+			"comments":"Vous devrez réunir les 6 Firefacts pour accéder au Péki Péki. Ils sont obtenables sur une Zilla de chaque salle."
+		},
+		"2":{
+			"mapid":8340,
+			"random":true,
+			"quantity":[4,8],
+			"monsters":[527,528,529,535,532,599],
+			"comments":""
+		},
+		"3":{
+			"mapid":8342,
+			"random":true,
+			"quantity":[4,8],
+			"monsters":[527,528,529,535,532,599],
+			"comments":""
+		},
+		"4":{
+			"mapid":8344,
+			"random":true,
+			"quantity":[4,8],
+			"monsters":[527,528,529,535,532,599],
+			"comments":""
+		},
+		"5":{
+			"mapid":8345,
+			"random":true,
+			"quantity":[4,8],
+			"monsters":[527,528,529,535,532,599],
+			"comments":""
+		},
+		"6":{
+			"mapid":8347,
+			"random":true,
+			"quantity":[4,8],
+			"monsters":[527,528,529,535,532,599],
+			"comments":""
+		},
+		"7":{
+			"mapid":8349,
+			"random":false,
+			"quantity":1,
+			"monsters":{
+				"605":1
+			},
+			"comments":""
+		}
+	}
+}

@@ -1,0 +1,25 @@
+{
+	"name":"Antre du Blop Multicolore",
+	"rooms":{
+		"du PNJ":{
+			"mapid":11891,
+			"path":[0],
+			"comments":"Pour atteindre cette map, vous devez avoir battu un des 4 Blops royaux. Vous trouverez ensuite un PNJ vous proposant de sortir du donjon, ou de rentrer dans l'Antre du Blop Multicolore à l'aide de la clef."
+		},
+		"du Blop Multicolore":{
+			"mapid":11892,
+			"random":false,
+			"quantity":8,
+			"monsters":{
+				"1188":1,
+				"1184":1,
+				"1185":1,
+				"1186":1,
+				"1187":1,
+				"1183":2,
+				"1182":1
+			},
+			"comments":""
+		}
+	}
+}

@@ -1,0 +1,194 @@
+{
+    "name":"Dark Vlad",
+    "room_subname":"Map",
+    "rooms":{
+        "[-1,13]":{
+            "mapid":935,
+            "path":[295,310,325,340,355,370,399,428,457],
+            "comments":"Violet: Départ<br>Vert: Trajet<br>Bleu: Destination"
+        },
+        "[-1,14]":{
+            "mapid":624,
+            "path":[22,36,50,64,78,92,106,120,134,148,162,176,190,189],
+            "comments":"Violet: Départ<br>Vert: Trajet<br>Bleu: Destination"
+        },
+        "[-2,14]":{
+            "mapid":625,
+            "path":[306],
+            "comments":"Violet: PNJ<br>Parlez au PNJ et demandez-lui à entrer dans le labyrinthe en échange d'un ongle de Chevaucheur de Karne."
+        },
+        "[-3,14]":{
+            "mapid":310,
+            "path":[347,346,345,344,358,372,386,400,414,428,442,456],
+            "comments":"Violet: Départ<br>Vert: Trajet<br>Bleu: Destination"
+        },
+        "[-3,15]":{
+            "mapid":319,
+            "path":[20,19,33,47,61,75,89,103,117,131],
+            "comments":"Violet: Départ<br>Vert: Trajet<br>Bleu: Destination"
+        },
+        "[-4,15]":{
+            "mapid":318,
+            "path":[173,187,201,215,229,243,257,271,285,299,313,342,371,400,414,428,442,456],
+            "comments":"Violet: Départ<br>Vert: Trajet<br>Bleu: Destination"
+        },
+        "[-4,16]":{
+            "mapid":328,
+            "path":[19,33,47,76,105,134,148,162,176,190,204,218],
+            "comments":"Violet: Départ<br>Vert: Trajet<br>Bleu: Destination"
+        },
+        "[-5,16]":{
+            "mapid":327,
+            "path":[376,405,419,433,447,461],
+            "comments":"Violet: Départ<br>Vert: Trajet<br>Bleu: Destination"
+        },
+        "[-5,17]":{
+            "mapid":337,
+            "path":[26,40,54,68,82,96,95,94,93,107,121,135,149,163,177,191,220,235,250,265,280,295,310,339,368,397,426,455],
+            "comments":"Violet: Départ<br>Vert: Trajet<br>Bleu: Destination"
+        },
+        "[-5,18]":{
+            "mapid":347,
+            "path":[19,48,63,78,93,108,123,138,153,168,183,198,213,228,243,244,230,216,202],
+            "comments":"Violet: Départ<br>Vert: Trajet<br>Bleu: Destination"
+        },
+        "[-4,18]":{
+            "mapid":348,
+            "path":[160,161,176,191,206,207,208,209,210,211,182,153,124,109,80,51,22],
+            "comments":"Violet: Départ<br>Vert: Trajet<br>Bleu: Destination"
+        },
+        "[-4,17]":{
+            "mapid":338,
+            "path":[458,444,430,416,402,388,374,375,361,347],
+            "comments":"Violet: Départ<br>Vert: Trajet<br>Bleu: Destination"
+        },
+        "[-3,17]":{
+            "mapid":339,
+            "path":[305,306,307,308,309,310,311,312,313,299,285,271,257,243,229,215,201,187,173],
+            "comments":"Violet: Départ<br>Vert: Trajet<br>Bleu: Destination"
+        },
+        "[-2,17]":{
+            "mapid":340,
+            "path":[102,88,74,60,46,32,18],
+            "comments":"Violet: Départ<br>Vert: Trajet<br>Bleu: Destination"
+        },
+        "[-2,16]":{
+            "mapid":330,
+            "path":[454,440,426,397,368,353,338,323,322,321,320,305],
+            "comments":"Violet: Départ<br>Vert: Trajet<br>Bleu: Destination"
+        },
+        "[-3,16]":{
+            "mapid":329,
+            "path":[318,303,288,273,258,243,228,199,170,156,142,128,129,144],
+            "comments":"Violet: Départ<br>Vert: Trajet<br>Bleu: Destination"
+        },
+        "[-2,16] bis":{
+            "mapid":330,
+            "path":[160,175,176,177,163,149,135,121,107,93,79,65,51,37,23],
+            "comments":"Violet: Départ<br>Vert: Trajet<br>Bleu: Destination"
+        },
+        "[-2,15]":{
+            "mapid":320,
+            "path":[459,445,431,417,403,389,375,361,347,318,289,260],
+            "comments":"Violet: Départ<br>Vert: Trajet<br>Bleu: Destination"
+        },
+        "[-1,15]":{
+            "mapid":321,
+            "path":[218,219,220,221,222,208,194,180,166,167,168,183,198,199,200,201,202],
+            "comments":"Violet: Départ<br>Vert: Trajet<br>Bleu: Destination"
+        },
+        "[0,15]":{
+            "mapid":322,
+            "path":[247,262,277,292,307,322,323,324,325,326,341,356,371,386,401,416,431,460],
+            "comments":"Violet: Départ<br>Vert: Trajet<br>Bleu: Destination"
+        },
+        "[0,16]":{
+            "mapid":332,
+            "path":[26,40,54,83,112,141,170,199,228,257,286,315,344,373,402,431,460],
+            "comments":"Violet: Départ<br>Vert: Trajet<br>Bleu: Destination"
+        },
+        "[0,17]":{
+            "mapid":342,
+            "path":[26,40,54,68,97,126,155,184,213,242,271,300,329,358,387,416,430,444,458],
+            "comments":"Violet: Départ<br>Vert: Trajet<br>Bleu: Destination"
+        },
+        "[0,18]":{
+            "mapid":410,
+            "path":[22,36,50,64,93,122,136,150,164,178,192,206,220,234,248,262,276],
+            "comments":"Violet: Départ<br>Vert: Trajet<br>Bleu: Destination"
+        },
+        "[-1,18]":{
+            "mapid":351,
+            "path":[260,245,230,215,214,213,227,241,255,269,298,313,342,371,400,429,458],
+            "comments":"Violet: Départ<br>Vert: Trajet<br>Bleu: Destination"
+        },
+        "[-1,19]":{
+            "mapid":361,
+            "path":[22,51,80,109,124,139,154,169,184,213,242,271,300,314,328,342,356,385,414,428,442,456],
+            "comments":"Violet: Départ<br>Vert: Trajet<br>Bleu: Destination"
+        },
+        "[-1,20]":{
+            "mapid":371,
+            "path":[19,33,62,91,120,149,163,177,191,205,219,233,247],
+            "comments":"Violet: Départ<br>Vert: Trajet<br>Bleu: Destination"
+        },
+        "[-2,20]":{
+            "mapid":370,
+            "path":[289,303,317,331,330,329,328,327,326,311,296,281,266,251,236,221,206,191,176,161,146,131],
+            "comments":"Violet: Départ<br>Vert: Trajet<br>Bleu: Destination"
+        },
+        "[-3,20]":{
+            "mapid":369,
+            "path":[115,114,113,112,126,140,154,168,167,181,195,209,208,222,221,220,205,190,175,160],
+            "comments":"Violet: Départ<br>Vert: Trajet<br>Bleu: Destination"
+        },
+        "[-4,20]":{
+            "mapid":368,
+            "path":[173,158,143,128,113,98,83,68,53,38,23],
+            "comments":"Violet: Départ<br>Vert: Trajet<br>Bleu: Destination"
+        },
+        "[-4,19]":{
+            "mapid":358,
+            "path":[457,428,399,370,341,326,311,296,281,266,251,236,221,206,191,176,161,146,131],
+            "comments":"Violet: Départ<br>Vert: Trajet<br>Bleu: Destination"
+        },
+        "[-5,19]":{
+            "mapid":357,
+            "path":[144,143,142,127,112,97,82,67,52,37,22],
+            "comments":"Violet: Départ<br>Vert: Trajet<br>Bleu: Destination"
+        },
+        "[-5,18] bis":{
+            "mapid":347,
+            "path":[457,442,427,412,397,382,367,352,323,308,293,278,263,248,247],
+            "comments":"Violet: Départ<br>Vert: Trajet<br>Bleu: Destination"
+        },
+        "[-6,18]":{
+            "mapid":346,
+            "path":[289,274,259,244,229,214,199,184,169,154,139,124,95,66,52,38,24],
+            "comments":"Violet: Départ<br>Vert: Trajet<br>Bleu: Destination"
+        },
+        "[-6,17]":{
+            "mapid":411,
+            "path":[459,430,415,400,385,370,355,340,325,310,295,280,265,264,263,277,276],
+            "comments":"Violet: Départ<br>Vert: Trajet<br>Bleu: Destination"
+        },
+        "[-7,17]":{
+            "mapid":335,
+            "path":[260,245,230,215,200,185,170,155,140,111,96,81,66,51,36,21],
+            "comments":"Violet: Départ<br>Vert: Trajet<br>Bleu: Destination"
+        },
+        "[-7,16] - (Dark Vlad)":{
+            "mapid":325,
+            "random":false,
+            "quantity":8,
+            "monsters":{
+                "107":1,
+                "110":3,
+                "291":2,
+                "54":2
+            },
+            "comments":""
+        }
+    }
+}
+

@@ -1,0 +1,263 @@
+{
+    "name":"Chemin Koulosse",
+    "room_subname":"Map",
+    "rooms":{
+        "[-16,1]":{
+            "mapid":8785,
+            "path":[281,296,311,326,341,370,399,428,457],
+            "comments":"Zaap Montagne des Koalaks (Village des Eleveurs)<br>Violet: Départ<br>Vert: Trajet<br>Bleu: Destination"
+        },
+        "[-16,2]":{
+            "mapid":8790,
+            "path":[22,37,52,67,96,125,154,183,212,241,270,299,313,327,341,355,369,398,427,456],
+            "comments":"Violet: Départ<br>Vert: Trajet<br>Bleu: Destination"
+        },
+        "[-16,3]":{
+            "mapid":8795,
+            "path":[22,37,52,81,110,139,168,197,226,255,284,313,342,371,400,429,458],
+            "comments":"Violet: Départ<br>Vert: Trajet<br>Bleu: Destination"
+        },
+        "[-16,4]":{
+            "mapid":8800,
+            "path":[24,53,82,111,140,154,168,182,196,210,224,253,282,311,340,369,398,427,456],
+            "comments":"Violet: Départ<br>Vert: Trajet<br>Bleu: Destination"
+        },
+        "[-16,5]":{
+            "mapid":8805,
+            "path":[21,22,37,52,67,82,97,112,127,142,157,186,215,244,273,302,316,330,344,358,372,386,400,429,458],
+            "comments":"Violet: Départ<br>Vert: Trajet<br>Bleu: Destination"
+        },
+        "[-16,6]":{
+            "mapid":8861,
+            "path":[23,22,36,50,64,78,92,106,120,134,148,162,176,190,204,218,247],
+            "comments":"Violet: Départ<br>Vert: Trajet<br>Bleu: Destination"
+        },
+        "[-17,6]":{
+            "mapid":8855,
+            "path":[231,230,244,258,272,286,300,314,328,357,386,415,429,443,457],
+            "comments":"Violet: Départ<br>Vert: Trajet<br>Bleu: Destination"
+        },
+        "[-17,7]":{
+            "mapid":8858,
+            "path":[22,51,80,94,108,122,136,165,194,223,252,281,310,339,368,397,426,440,454],
+            "comments":"Violet: Départ<br>Vert: Trajet<br>Bleu: Destination"
+        },
+        "[-17,8]":{
+            "mapid":8905,
+            "path":[19,48,63,78,107,136,165,194,223,252,281,310,339,368,397,426,455],
+            "comments":"Violet: Départ<br>Vert: Trajet<br>Bleu: Destination"
+        },
+        "[-17,9]":{
+            "mapid":8906,
+            "path":[21,50,79,108,122,136,150,164,178,192,206,220,234,248,262,276],
+            "comments":"Violet: Départ<br>Vert: Trajet<br>Bleu: Destination"
+        },
+        "[-18,9]":{
+            "mapid":8907,
+            "path":[231,245,259,273,287,301,315,329,343,357,371,385,399,413,427,441,455],
+            "comments":"Violet: Départ<br>Vert: Trajet<br>Bleu: Destination"
+        },
+        "[-18,10]":{
+            "mapid":8910,
+            "path":[20,34,48,77,106,135,164,193,222,251,280,309,338,367,396,425,454],
+            "comments":"Violet: Départ<br>Vert: Trajet<br>Bleu: Destination"
+        },
+        "[-18,11]":{
+            "mapid":8911,
+            "path":[18,32,46,60,74,88,102],
+            "comments":"Violet: Départ<br>Vert: Trajet<br>Bleu: Destination"
+        },
+        "[-19,11]":{
+            "mapid":8912,
+            "path":[144,143,157,171,185,199,213,227,241,255,269,283,297,311,325,339,368,397,426,455],
+            "comments":"Violet: Départ<br>Vert: Trajet<br>Bleu: Destination"
+        },
+        "[-19,12]":{
+            "mapid":8913,
+            "path":[20,35,64,93,122,151,180,209,238,267,282,283,284,285,286,287,273,259,245,231],
+            "comments":"Violet: Départ<br>Vert: Trajet<br>Bleu: Destination"
+        },
+        "[-18,12]":{
+            "mapid":8914,
+            "path":[218,204,190,176,162,148,134,120,106,77,48,19],
+            "comments":"Violet: Départ<br>Vert: Trajet<br>Bleu: Destination"
+        },
+        "[-18,11] bis":{
+            "mapid":8911,
+            "path":[454,455,441,427,413,399,385,371,357,343,329,315,301,287,273,259,245,231],
+            "comments":"Violet: Départ<br>Vert: Trajet<br>Bleu: Destination"
+        },
+        "[-17,11]":{
+            "mapid":8915,
+            "path":[218,219,220,206,192,178,164,150,136,122,108,94,80,66,52,38,24],
+            "comments":"Violet: Départ<br>Vert: Trajet<br>Bleu: Destination"
+        },
+        "[-17,10]":{
+            "mapid":8916,
+            "path":[459,445,431,417,403,389,375,361,332,318],
+            "comments":"Violet: Départ<br>Vert: Trajet<br>Bleu: Destination"
+        },
+        "[-16,10]":{
+            "mapid":8917,
+            "path":[305,320,335,350,365,380,395,424,453],
+            "comments":"Violet: Départ<br>Vert: Trajet<br>Bleu: Destination"
+        },
+        "[-16,11]":{
+            "mapid":8918,
+            "path":[18,33,48,63,78,93,108,137,166,195,224,253,268,283,298,313,328,343,358,373,374,360],
+            "comments":"Violet: Départ<br>Vert: Trajet<br>Bleu: Destination"
+        },
+        "[-16,11] bis":{
+            "mapid":8919,
+            "path":[436,422,408,394,380,366,352,338,309,280,266,252,253,268,283,298,313,328,343,372,401,416,431,446,461],
+            "comments":"Violet: Départ<br>Vert: Trajet<br>Bleu: Destination"
+        },
+        "[-16,12]":{
+            "mapid":8921,
+            "path":[24,39,68,97,126,155,184,213,242,256,270,284,298,312,326,325,324,323,337,351,365,394,423],
+            "comments":"Violet: Départ<br>Vert: Trajet<br>Bleu: Destination"
+        },
+        "[-17,12]":{
+            "mapid":8922,
+            "path":[28,42,56,70,84,98,112,141,155,169,183,197,211,225,224,223,222,236,250,279,308,337,366,395,424,439,454],
+            "comments":"Violet: Départ<br>Vert: Trajet<br>Bleu: Destination"
+        },
+        "[-17,12] bis":{
+            "mapid":8923,
+            "path":[177,192,207,222,237,252,267,282,297,312,327,342,343,344,345,346,347],
+            "comments":"Violet: Départ<br>Vert: Trajet<br>Bleu: Destination"
+        },
+        "[-16,12] bis":{
+            "mapid":8924,
+            "path":[334,349,364,379,394,395,396,397,398,399,400,386,372,358,344,330,316,302,288,274,260],
+            "comments":"Violet: Départ<br>Vert: Trajet<br>Bleu: Destination"
+        },
+        "[-15,12]":{
+            "mapid":8925,
+            "path":[247,248,249,250,251,252,238,224,195,166,137,108,79,50,21],
+            "comments":"Violet: Départ<br>Vert: Trajet<br>Bleu: Destination"
+        },
+        "[-15,11]":{
+            "mapid":8926,
+            "path":[456,427,398,383,368,353,338,309,280,251,222,193,178,163,148,133,118,117,102],
+            "comments":"Violet: Départ<br>Vert: Trajet<br>Bleu: Destination"
+        },
+        "[-16,11] bis2":{
+            "mapid":8918,
+            "path":[115,100,85,70,55,40,25],
+            "comments":"Violet: Départ<br>Vert: Trajet<br>Bleu: Destination"
+        },
+        "[-16,10] bis":{
+            "mapid":8917,
+            "path":[460,446,432,418,404,390,376],
+            "comments":"Violet: Départ<br>Vert: Trajet<br>Bleu: Destination"
+        },
+        "[-15,10]":{
+            "mapid":8927,
+            "path":[363,378,379,380,381,382,383,384,370],
+            "comments":"Violet: Départ<br>Vert: Trajet<br>Bleu: Destination"
+        },
+        "[-15,10] bis":{
+            "mapid":8928,
+            "path":[453,439,425,396,367,338,323,294,265,236,207,178,149,120,91,62,33],
+            "comments":"Violet: Départ<br>Vert: Trajet<br>Bleu: Destination"
+        },
+        "[-15,9]":{
+            "mapid":8929,
+            "path":[455,440,425,410,395,366,337,308,279,250,221,192,178,164,150,136,122,123,124,125,126,141,156,171,186,201,216,231],
+            "comments":"Violet: Départ<br>Vert: Trajet<br>Bleu: Destination"
+        },
+        "[-15,10] bis2":{
+            "mapid":8928,
+            "path":[23,38,53,68,83,98,113,128,157,186,215,230,245,260],
+            "comments":"Violet: Départ<br>Vert: Trajet<br>Bleu: Destination"
+        },
+        "[-15,10] bis3":{
+            "mapid":8927,
+            "path":[71,100,129,158,173],
+            "comments":"Violet: Départ<br>Vert: Trajet<br>Bleu: Destination"
+        },
+        "[-14,10]":{
+            "mapid":8930,
+            "path":[160,146,147,148,134,120,106,92,78,64,50,36,22],
+            "comments":"Violet: Départ<br>Vert: Trajet<br>Bleu: Destination"
+        },
+        "[-14,9]":{
+            "mapid":8931,
+            "path":[457,442,427,398,383,368,353,338,309,280,251,222,193,164,135,106,77,48,19],
+            "comments":"Violet: Départ<br>Vert: Trajet<br>Bleu: Destination"
+        },
+        "[-14,8]":{
+            "mapid":8936,
+            "path":[454,440,441,427,413,384,355,326,312,298,284,270,256,242,228,214,200,186,172,158,144],
+            "comments":"Violet: Départ<br>Vert: Trajet<br>Bleu: Destination"
+        },
+        "[-13,8]":{
+            "mapid":8937,
+            "path":[131,132,133,134,149,164,179,194,209,224,239,254,269,284,299,314,343,372,401,430,459],
+            "comments":"Violet: Départ<br>Vert: Trajet<br>Bleu: Destination"
+        },
+        "[-13,9]":{
+            "mapid":8938,
+            "path":[24,53,82,111,140,155,170,185,200,215,230,245,260],
+            "comments":"Violet: Départ<br>Vert: Trajet<br>Bleu: Destination"
+        },
+        "[-12,9]":{
+            "mapid":8940,
+            "path":[247,262,291,306,321,336,351,366,381,396,411,426,441,456],
+            "comments":"Violet: Départ<br>Vert: Trajet<br>Bleu: Destination"
+        },
+        "[-12,10]":{
+            "mapid":8941,
+            "path":[21,35,49,63,77,91,105,119,133,147,161,175,189],
+            "comments":"Violet: Départ<br>Vert: Trajet<br>Bleu: Destination"
+        },
+        "[-13,10]":{
+            "mapid":8939,
+            "path":[202,216,245,274,303,332,346,360,374,388,402,416,430,444,458],
+            "comments":"Violet: Départ<br>Vert: Trajet<br>Bleu: Destination"
+        },
+        "[-13,11]":{
+            "mapid":8944,
+            "path":[23,22,36,50,64,78,92,106,120,134,148,162,176,190,204,218],
+            "comments":"Violet: Départ<br>Vert: Trajet<br>Bleu: Destination"
+        },
+        "[-14,11]":{
+            "mapid":8945,
+            "path":[231,245,259,273,272,271,270,269,268,267,266,265,250,235,220,191,162,133,104,75,46,17],
+            "comments":"Violet: Départ<br>Vert: Trajet<br>Bleu: Destination"
+        },
+        "[-14,10] bis":{
+            "mapid":8930,
+            "path":[452,437,422,407,392],
+            "comments":"Violet: Départ<br>Vert: Trajet<br>Bleu: Destination"
+        },
+        "[-15,10] bis4":{
+            "mapid":8927,
+            "path":[405,390,361,332,303,274,245,230,215,200,185,170,155,126,111,82,81,80,65,50,35,20],
+            "danger":[212,183,168,154,167,140,125,141,97,96,95,109,123,124,66,52,23],
+            "comments":"Violet: Départ<br>Vert: Trajet<br>Rouge: Les trous à éviter. Lorsque vous tombez dans un trou, vous atterrissez dans la grotte en [-15,10].<br>Bleu: Destination"
+        },
+        "[-15,9] bis":{
+            "mapid":8932,
+            "path":[455,454,453,438,409,394,365,364,335,320,305],
+            "danger":[349,350,379,393,408,422,423,424,439,395,452,392],
+            "comments":"Violet: Départ<br>Vert: Trajet<br>Rouge: Les trous à éviter. Lorsque vous tombez dans un trou, vous atterrissez dans la grotte en [-15,9].<br>Bleu: Destination"
+        },
+        "[-16,9]":{
+            "mapid":8933,
+            "path":[318,303,288,273,258,243,228,213,198,183,168,153,138,123,108,79,50,21],
+            "comments":"Violet: Départ<br>Vert: Trajet<br>Bleu: Destination"
+        },
+        "[-16,8]":{
+            "mapid":8934,
+            "path":[456,427,398,369,354,339,324,309,308,307,292,277,262,247],
+            "comments":"Violet: Départ<br>Vert: Trajet<br>Bleu: Destination"
+        },
+        "[-17,8] bis":{
+            "mapid":8905,
+            "path":[260,245,244,229,228,213],
+            "comments":"Violet: Départ<br>Vert: Trajet<br>Bleu: PNJ"
+        }
+    }
+}

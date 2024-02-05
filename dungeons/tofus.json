@@ -1,0 +1,81 @@
+{
+    "name":"Donjon des Tofus",
+    "rooms":{
+        "1":{
+            "mapid":9521,
+            "random":false,
+            "quantity":8,
+            "monsters":{
+                "98":8
+            },
+            "comments":""
+        },
+        "2":{
+            "mapid":9523,
+            "random":true,
+            "quantity":8,
+            "monsters":[98,796],
+            "comments":""
+        },
+        "3":{
+            "mapid":9524,
+            "random":true,
+            "quantity":8,
+            "monsters":[98,806],
+            "comments":""
+        },
+        "des trous":{
+            "mapid":9525,
+            "path":[380,351,337,323,324,310,295,266,265,250,235,220,191,192,193,164,135,121,122,108,109,138,139,140,155,184,213,214,215,244,258,272,286,300,299,313,327,341,340,354,368,382,411,440,441,427,398,399,400,386,372,373,344,330,331,317,303,274,260,231,202,187,172,157,142,127,112,97,82,67],
+            "danger":[51,52,66,81,96,107,111,123,124,125,136,137,149,150,151,152,153,165,167,169,171,177,178,179,185,186,194,201,205,206,207,216,219,221,222,229,230,243,245,249,251,257,259,264,273,279,280,285,287,292,293,294,301,302,306,308,309,311,314,315,325,326,328,329,336,338,339,342,343,345,350,353,355,356,358,365,366,369,370,371,381,383,387,395,397,401,410,412,413,414,426,428,429,455,456],
+            "comments":"En vert: le chemin à suivre, en rouge: les trous à éviter. Lorsque vous tombez dans un trou, vous atterrissez dans une map avec des groupes de divers Tofus, très utile pour farmer les viandes d'oiseaux."
+        },
+        "des tofus":{
+            "mapid":9527,
+            "random":false,
+            "quantity":1,
+            "monsters":{
+                "98":1
+            },
+            "comments":"Il n'y a que des groupes de 1 Tofu, vous pouvez farmer cette map sans avoir de malus. Pour continuer le Donjon, il faut parler à Kazy Ingalsse et lui répondre que vous voulez continuer de nettoyer le reste du Tofulailler."
+        },
+        "4":{
+            "mapid":9530,
+            "random":true,
+            "quantity":8,
+            "monsters":[98,806],
+            "comments":""
+        },
+        "5":{
+            "mapid":9533,
+            "random":true,
+            "quantity":8,
+            "monsters":[796,806],
+            "comments":""
+        },
+        "6":{
+            "mapid":9765,
+            "random":false,
+            "quantity":8,
+            "monsters":{
+                "98":6,
+                "804":2
+            },
+            "comments":""
+        },
+        "7":{
+            "mapid":9766,
+            "random":false,
+            "quantity":8,
+            "monsters":{
+                "98":1,
+                "796":3,
+                "800":1,
+                "804":1,
+                "806":1,
+                "808":1
+            },
+            "comments":""
+        }
+    }
+}

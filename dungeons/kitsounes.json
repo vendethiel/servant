@@ -1,0 +1,77 @@
+{
+    "name":"Donjon des Kitsounes",
+    "rooms":{
+        "1":{
+            "mapid":8303,
+            "random":true,
+            "quantity":[3,5],
+            "monsters":[523,530,531],
+            "comments":""
+        },
+        "2":{
+            "mapid":8304,
+            "random":true,
+            "quantity":[6,7],
+            "monsters":[523,530,531,532],
+            "comments":""
+        },
+        "3":{
+            "mapid":8308,
+            "path":[
+                [206,192,178,164,135],
+                [183,169,155,141,127,113,99],
+                [372,358,344,345,346,361]
+            ],
+            "danger":[251,239,326],
+            "comments":"Cette salle ne comporte pas de monstres, seulement 3 dalles sur lesquelles vous devrez vous placer afin d'ouvrir les passages à coté d'elles. Lorsque les passages s'ouvrent, les passages derrière se referment vous forçant à vous séparer pour les prochaines salles."
+        },
+        "4 à gauche":{
+            "mapid":8306,
+            "random":true,
+            "quantity":[2,4],
+            "monsters":[523,530,531,532],
+            "comments":""
+        },
+        "4 en face":{
+            "mapid":8310,
+            "random":true,
+            "quantity":[2,4],
+            "monsters":[523,530,531,532],
+            "comments":""
+        },
+        "4 à droite":{
+            "mapid":8311,
+            "random":true,
+            "quantity":[2,4],
+            "monsters":[523,530,531,532],
+            "comments":""
+        },
+        "5":{
+            "mapid":8313,
+            "random":true,
+            "quantity":[6,8],
+            "monsters":[523,530,531,532],
+            "comments":"Vous êtes de nouveau regroupés à partir de cette salle."
+        },
+        "6":{
+            "mapid":8305,
+            "random":true,
+            "quantity":8,
+            "monsters":[523,530,531,532],
+            "comments":""
+        },
+        "7":{
+            "mapid":8314,
+            "random":false,
+            "quantity":5,
+            "monsters":{
+                "568":1,
+                "523":1,
+                "530":1,
+                "531":1,
+                "532":1
+            },
+            "comments":""
+        }
+    }
+}

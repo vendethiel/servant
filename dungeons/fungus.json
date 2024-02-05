@@ -1,0 +1,119 @@
+{
+	"name": "Donjon des Fungus",
+	"rooms": {
+		"1": {
+			"mapid": 11931,
+			"random": false,
+			"quantity": 5,
+			"monsters": {
+				"1153": 1,
+				"1154": 1,
+				"1155": 1,
+				"1156": 1,
+				"1157": 1
+			},
+			"comments": ""
+		},
+		"2": {
+			"mapid": 11932,
+			"random": false,
+			"quantity": 6,
+			"monsters": {
+				"1155": 2,
+				"1157": 2,
+				"1158": 2
+			},
+			"comments": ""
+		},
+		"3": {
+			"mapid": 11933,
+			"random": false,
+			"quantity": 7,
+			"monsters": {
+				"1153": 3,
+				"1154": 1,
+				"1156": 3
+			},
+			"comments": ""
+		},
+		"4": {
+			"mapid": 11934,
+			"comments": "Il n'y a pas de groupe de monstre sur cette map, seulement un croisement où il va falloir vous séparer en deux équipes d'au moins 2 joueurs. Vous serez amenés à combattre avec cette équipe dans les deux prochaines salles donc réfléchissez bien à comment vous vous repartissez."
+		},
+		"5": {
+			"mapid": 11935,
+			"comments": "Chaque équipe se retrouve alors avec deux dalles à sa disposition. Marcher simultanément sur les deux dalles d'un côté ouvrira la porte pour l'équipe de l'autre côté et ce, pendant un temps limité. Attention, une fois la porte franchie, il ne vous sera pas possible de faire marche arrière, vérifiez bien que vous n'abandonnez aucun coéquipier avant de la franchir !"
+		},
+		"6 à gauche": {
+			"mapid": 11936,
+			"random": false,
+			"quantity": 2,
+			"monsters": {
+				"1156": 1,
+				"1157": 1
+			},
+			"comments": ""
+		},
+		"6 à droite": {
+			"mapid": 11937,
+			"random": false,
+			"quantity": 2,
+			"monsters": {
+				"1153": 1,
+				"1156": 1
+			},
+			"comments": ""
+		},
+		"7 à gauche": {
+			"mapid": 11938,
+			"random": false,
+			"quantity": 3,
+			"monsters": {
+				"1155": 1,
+				"1157": 1,
+				"1158": 1
+			},
+			"comments": ""
+		},
+		"7 à droite": {
+			"mapid": 11939,
+			"random": false,
+			"quantity": 3,
+			"monsters": {
+				"1153": 1,
+				"1154": 1,
+				"1156": 1
+			},
+			"comments": ""
+		},
+		"8": {
+			"mapid": 11940,
+			"random": false,
+			"quantity": 8,
+			"monsters": {
+				"1153": 1,
+				"1154": 2,
+				"1155": 2,
+				"1156": 1,
+				"1157": 1,
+				"1158": 1
+			},
+			"comments": ""
+		},
+		"9": {
+			"mapid": 11941,
+			"random": false,
+			"quantity": 8,
+			"monsters": {
+				"1153": 2,
+				"1154": 1,
+				"1155": 1,
+				"1156": 1,
+				"1157": 1,
+				"1158": 1,
+				"1159": 1
+			},
+			"comments": ""
+		}
+	}
+}

@@ -1,0 +1,39 @@
+{
+    "name":"Donjon du Tofu Royal",
+    "rooms":{
+        "1":{
+            "mapid":9529,
+            "random":true,
+            "quantity":8,
+            "monsters":[804,806,98],
+            "comments":""
+        },
+        "2":{
+            "mapid":9532,
+            "random":true,
+            "quantity":8,
+            "monsters":[804,808,807],
+            "comments":""
+        },
+        "3":{
+            "mapid":9534,
+            "random":true,
+            "quantity":8,
+            "monsters":[804,808,807,806,796],
+            "comments":""
+        },
+        "4":{
+            "mapid":9535,
+            "random":false,
+            "quantity":8,
+            "monsters":{
+                "382":1,
+                "808":2,
+                "804":2,
+                "796":2,
+                "806":1
+            },
+            "comments":""
+        }
+    }
+}
