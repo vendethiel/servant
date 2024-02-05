@@ -6,5 +6,5 @@ node regurgitate.mjs itemsets.js IS > itemsets.json
 node regurgitate.mjs houses.js H > houses.json
 node regurgitate.mjs spells.js S > spells.json
 node regurgitate.mjs maps.js MA > maps.json
-# TODO automatically replace `new Array` by `new Object`
-node regurgitate.mjs itemstats.js ISTA | sed 's/new Array/new Object/'  > itemstats.json
+sed -i '' 's/new Array/new Object/'  itemstats.js
+node regurgitate.mjs itemstats.js ISTA  > itemstats.json
